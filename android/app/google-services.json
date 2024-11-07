@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79889702885",
+    "project_id": "fooddeliveryapp-8912b",
+    "storage_bucket": "fooddeliveryapp-8912b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79889702885:android:4078c275597d4f8ec5190c",
+        "android_client_info": {
+          "package_name": "com.flyingcoffee.food_delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTPmcYW10bFfNSy4u5CohRmj2w6W_gD_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
